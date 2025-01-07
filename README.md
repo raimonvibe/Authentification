@@ -1,3 +1,6 @@
+![Authentication System](https://raw.githubusercontent.com/raimonvibe/Authentification/main/auth_system.png)
+
+
 # Authentication System
 
 A secure authentication system built with Node.js and Express that allows users to register, login, and share secrets anonymously. This application provides a simple interface for user registration and authentication, with encrypted password storage using MongoDB.
